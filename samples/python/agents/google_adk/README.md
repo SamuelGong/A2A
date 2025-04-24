@@ -22,6 +22,8 @@ This agent takes text requests from the client and, if any details are missing, 
    ```bash
    echo "GOOGLE_API_KEY=your_api_key_here" > .env
    ```
+   
+**[Zhifeng]**: 跑 Agent server 和 client 两个 terminal 里面都需要开代理。
 
 4. Run an agent:
     ```bash
